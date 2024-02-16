@@ -30,10 +30,11 @@ a{
 .header_bottom{
     background-color: #1F2937;
     display:flex;
-    padding:50px;
+    padding:100px;
     gap:20px;
     align-items: center;
-    margin:0px
+    margin:0px;
+    justify-content: space-between;
 }
 
 .main_header{
@@ -105,6 +106,47 @@ img{
     padding-bottom: 100px;
     font-weight: bold;
     font-size: 20px;
+}
+
+.call_for_action_section{
+    margin:100px;
+    background-color:#3882f6;
+    display:flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    padding:20px;
+
+}
+
+.call_for_action_text_part{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.action_header{
+    font-weight: bold;
+    font-size: 20px;
+    color:white;
+
+}
+
+
+
+.action_para{
+    color:white;
+}
+
+.bottom_signup{
+    border-style:solid;
+    align-self: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+    background-color:#3882f6;
+    color: white;
+    border-color: white;
     
 }
 
