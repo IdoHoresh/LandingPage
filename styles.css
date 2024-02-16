@@ -70,6 +70,7 @@ a{
     font-size:18px;
     display:flex;
     justify-content: space-around;
+    padding-bottom: 100px;
 
 }
 
@@ -77,10 +78,34 @@ a{
     padding-top:50px;
     display: flex;
     justify-content: space-around;
+
 }
 
 img{
     border-radius: 18%;
+}
+
+.quote_section{
+    background-color: #e5e7eb;
+}
+
+.inspiring_quote{
+    font-size: 36px;
+    font-style:italic;
+    color: #1f2937;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top:100px;
+  
+}
+
+.quote_said_by{
+    text-align: right;
+    padding-right:100px;
+    padding-bottom: 100px;
+    font-weight: bold;
+    font-size: 20px;
+    
 }
 
 
