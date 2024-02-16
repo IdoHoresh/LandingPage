@@ -1,0 +1,28 @@
+.header_top{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left:100px;
+    padding-right:100px;
+    background-color: #1F2937;
+    
+}
+
+.header_logo{
+    font-size:24px;
+    color:#F9FAF8;
+    
+}
+
+a{
+    font-size:18px;
+    color: #E5E7EB;
+    text-decoration-line: none;
+}
+
+.top_links{
+    width:400px;
+    display: flex;
+    justify-content: right;
+    justify-content: space-around ;    
+}
