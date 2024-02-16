@@ -28,7 +28,6 @@ a{
 }
 
 .header_bottom{
-    border-style: solid;
     background-color: #1F2937;
     display:flex;
     padding:50px;
@@ -53,7 +52,38 @@ a{
     border-radius:8px;
     color:#E5E7EB;
     font-weight: bold;
-    padding:5px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
 }
+
+.second_title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+    color:#1f2937;
+}
+
+.text_under_images{
+    font-size:18px;
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.images_main_section{
+    padding-top:50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+img{
+    border-radius: 18%;
+}
+
+
+
 
 
