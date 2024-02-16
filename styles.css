@@ -26,3 +26,28 @@ a{
     justify-content: right;
     justify-content: space-around ;    
 }
+
+.header_bottom{
+    border-style: solid;
+    background-color: #1F2937;
+}
+
+.main_header{
+    font-size:48px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.main_secondary_text{
+    font-size:18px;
+    color:#E5E7EB;
+}
+
+.sign_up_button{
+    background-color:#3882f6;
+    border-radius:10px;
+    color:#E5E7EB;
+    font-weight: bold;
+}
+
+
