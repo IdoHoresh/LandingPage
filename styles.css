@@ -30,6 +30,11 @@ a{
 .header_bottom{
     border-style: solid;
     background-color: #1F2937;
+    display:flex;
+    padding:50px;
+    gap:20px;
+    align-items: center;
+    margin:0px
 }
 
 .main_header{
@@ -45,9 +50,10 @@ a{
 
 .sign_up_button{
     background-color:#3882f6;
-    border-radius:10px;
+    border-radius:8px;
     color:#E5E7EB;
     font-weight: bold;
+    padding:5px;
 }
 
 
